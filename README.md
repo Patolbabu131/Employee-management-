@@ -3,3 +3,4 @@ Employee management system is a software solution designed to streamline and aut
 The system provides various features and functionalities that simplify the overall employee management process. It allows HR personnel to easily input, store, and manage employee information such as personal details, employment history, qualifications, and contact information. It also enables them to maintain an organized record of employee documents such as contracts, evaluations, and training certificates.
 Attendance management module helps in monitoring employee attendance, leaves, and time-off requests. It enables employees to easily submit their leave requests and allows supervisors to approve or reject them based on company policies and staffing requirements.
 # Screenshots of student management 
+1. dashboard
