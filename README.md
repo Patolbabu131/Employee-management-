@@ -7,8 +7,8 @@ Attendance management module helps in monitoring employee attendance, leaves, an
 ![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/384635e3-bf65-4101-8c9e-0b73a6adf6a5)
 # 2. Add Employee popup using partial view
 ![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/93c67a76-416f-43b9-b650-56a42b31056e)
-# 3. Edit Employee details
-![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/6277b429-81b4-45af-8565-c76ad4d0664e)
+# 3. Edit Employee details popup open when we click on employee name 
+![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/fc4619ab-1bd8-4876-9be4-3ac5142c9f5f)
 # 4. Delete Employee with conformatin 
 ![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/39846540-41fc-4b62-b04f-53ee4e7246c9)
 # 5. Add Salary details with employee name at the top
