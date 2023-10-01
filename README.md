@@ -10,6 +10,10 @@ Attendance management module helps in monitoring employee attendance, leaves, an
 # 3. Edit Employee details
 ![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/6277b429-81b4-45af-8565-c76ad4d0664e)
 # 4. Delete Employee with conformatin 
-![Uploading image.png…]()
-# 5.
+![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/39846540-41fc-4b62-b04f-53ee4e7246c9)
+# 5. Add Salary details with employee name at the top
+![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/49afff3f-5f8a-4775-9049-c5b5c9ecb648)
+# 6. Salary history of a particular Employee
+![image](https://github.com/Patolbabu131/Employee-management-/assets/97328289/d99bb8d6-cea7-4675-826d-d972e814dab3)
+
 
